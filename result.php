@@ -13,7 +13,6 @@ $sostituisci = "***";
     <title>PHP Badwords</title>
 </head>
 <body>
-
 <h1>
 
 <?php echo $intero_par = $paragrafo . " " . $censura . " ";
